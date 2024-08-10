@@ -94,7 +94,7 @@ with st.sidebar:
     st.sidebar.info("Click the logo to visit GitHub repo", icon="👇")
     st.sidebar.markdown(
             """
-        <a href="https://github.com/AdritPal08/AI-News-Letter-Generator-with-Crew-AI-Python-and-ChatGPT" target="_blank">
+        <a href="https://github.com/AdritPal08/TravelPlanner-CrewAi-Agents-Streamlit" target="_blank">
             <img src="https://raw.githubusercontent.com/joaomdmoura/crewAI/main/docs/crewai_logo.png" alt="CrewAI Logo" style="width:100px;"/>
         </a>
         """,
