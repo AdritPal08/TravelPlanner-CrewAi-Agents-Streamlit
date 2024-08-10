@@ -1,16 +1,12 @@
-# streamlit
 python-dotenv
-# streamlit_option_menu
-# streamlit_lottie
 load_dotenv
 crewai
 crewai_tools
 python-docx
 textwrap3
-# langchain_google_genai
-# langchain-openai
 langchain_groq
-opencv-python
+# opencv-python
+opencv-python-headless
 numpy
 unstructured
 streamlit
