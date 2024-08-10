@@ -15,4 +15,5 @@ numpy
 unstructured
 streamlit
 streamlit_lottie
+pysqlite3-binary
 -e .
