@@ -95,7 +95,7 @@ This project not only facilitates a user-friendly Streamlit interface for effort
 
 ## License :
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [GNU General Public License v3.0](https://github.com/AdritPal08/AI-News-Letter-Generator-with-Crew-AI-Python-and-ChatGPT/blob/main/LICENSE)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [GNU General Public License v3.0](https://github.com/AdritPal08/TravelPlanner-CrewAi-Agents-Streamlit/blob/main/LICENSE)
 
 
 ## Follow Me :
