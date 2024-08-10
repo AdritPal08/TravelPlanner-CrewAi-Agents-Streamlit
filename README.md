@@ -21,21 +21,21 @@ This project demonstrates how autonomous AI agents can collaborate and execute c
 ## Project Structure
 The project consists of the following files and directories:
 
-**agents.py:**  Defines Crew AI agents responsible for specific tasks in the travel itinerary planning process, such as gathering user preferences, searching for relevant destinations and activities, and curating the final itinerary.
+`agents.py :`  Defines Crew AI agents responsible for specific tasks in the travel itinerary planning process, such as gathering user preferences, searching for relevant destinations and activities, and curating the final itinerary.
 
-**tasks.py:**  Defines Crew AI tasks for each agent involved in the travel itinerary planning process, such as collecting user input, fetching travel data from various sources, and generating the itinerary.
+`tasks.py :`  Defines Crew AI tasks for each agent involved in the travel itinerary planning process, such as collecting user input, fetching travel data from various sources, and generating the itinerary.
 
-**search_tools.py:**  Provides custom search tools using APIs (e.g., SERPER) to gather relevant information for travel planning, such as destinations, attractions, accommodations, and transportation options.
+`search_tools.py :`  Provides custom search tools using APIs (e.g., SERPER) to gather relevant information for travel planning, such as destinations, attractions, accommodations, and transportation options.
 
-**file_io.py:**  Contains functions for saving the generated travel itinerary in markdown format.
+`file_io.py :`  Contains functions for saving the generated travel itinerary in markdown format.
 
-**main.py:**  The main script that instantiates Crew AI agents, tasks, and the language model (e.g., LLaMA 3.1 (70b)). It then forms a Crew object and kicks off the travel itinerary planning process.
+`main.py :`  The main script that instantiates Crew AI agents, tasks, and the language model (e.g., LLaMA 3.1 (70b)). It then forms a Crew object and kicks off the travel itinerary planning process.
 
-**app.py:** Defines and creates the Streamlit application, providing a user-friendly interface for users to input their travel preferences and receive personalized itineraries.
+`app.py :` Defines and creates the Streamlit application, providing a user-friendly interface for users to input their travel preferences and receive personalized itineraries.
 
-**.env (hidden file):**  Stores API keys (e.g., SERPER API key, Groq API KEY) used by the project.
+`.env (hidden file) :`  Stores API keys (e.g., SERPER API key, Groq API KEY) used by the project.
 
-**requirements.txt:**  Stores all the python libraries. 
+`requirements.txt :`  Stores all the python libraries. 
 
 
 ## How it Works
